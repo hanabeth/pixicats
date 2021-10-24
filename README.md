@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Learning Web3 - Gaming NFTs!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+More to come. Will be adding customization to the project when I have more time and migrating the photos used off of imgur.
 
-Try running some of the following tasks:
+Actually, planning on figuring out have to do pixel art you use my own stuff. ;) Glad I have the basis to customize when I have more time! Big shoutout to [buildspace](https://buildspace.so/)!!! 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
